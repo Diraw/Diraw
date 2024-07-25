@@ -2,11 +2,11 @@
 
 <table>
   <tr>
-    <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=Diraw&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=diraw&theme=transparent&hide_border=true&layout=compact&langs_count=22&hide_title=true" /></td>
+    <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=Diraw&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&card_width=400&text_color=000000&icon_color=000000" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=diraw&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide_title=true&card_width=400&text_color=000000&icon_color=000000" /></td>
   </tr>
 </table>
 
 <div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&text_color=000000" />
 </div>
