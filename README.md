@@ -9,6 +9,10 @@
 </table>
 
 <div align="center">
+  <figure><embed src="https://wakatime.com/share/@Diraw/f2012205-2e27-4aa6-ab20-69906005c91a.svg"></embed></figure>
+</div>
+
+<div align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&color=333333" />
 </div>
 
