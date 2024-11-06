@@ -9,7 +9,7 @@
 </table>
 
 <div align="center">
-  <figure><embed src="https://wakatime.com/share/@Diraw/f2012205-2e27-4aa6-ab20-69906005c91a.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@Diraw/f2012205-2e27-4aa6-ab20-69906005c91a.svg" alt="Description">
 </div>
 
 <div align="center">
