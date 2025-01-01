@@ -1,5 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/018e666c-c584-40d2-b937-d94aa40bdf3b.svg)](https://wakatime.com/@018e666c-c584-40d2-b937-d94aa40bdf3b)
-![Profile Views](https://komarev.com/ghpvc/?username=Diraw&color=blueviolet)
+# Diraw [![wakatime](https://wakatime.com/badge/user/018e666c-c584-40d2-b937-d94aa40bdf3b.svg)](https://wakatime.com/@018e666c-c584-40d2-b937-d94aa40bdf3b) ![Profile Views](https://komarev.com/ghpvc/?username=Diraw&color=blueviolet)
+
+Welcome to my world... perhaps it still needs more time to be perfected.
 
 <table>
   <tr>
