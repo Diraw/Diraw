@@ -38,8 +38,9 @@ It's a new day; it's a new summons to struggle.
 <br>
 
 <!--START_SECTION:waka-->
+
 ```txt
-Total Time: 4 hrs 50 mins
+Total Time: 7 hrs 37 mins
 
 Other        2 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.52 %
 Python       1 hr 34 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
@@ -47,6 +48,7 @@ Bash         1 hr 25 mins    ████▓░░░░░░░░░░░░
 YAML         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
 Docker       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
