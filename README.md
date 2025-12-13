@@ -8,6 +8,8 @@ My website: [Diraw's World](https://diraw.top/), to seek the answer why we move 
 
 It's a new day, also a new summons to struggle.
 
+My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A864_public.asc)
+
 <table>
   <tr>
     <td>
