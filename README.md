@@ -39,14 +39,14 @@ It's a new day; it's a new summons to struggle.
 
 <!--START_SECTION:waka-->
 
-```txt
-Total Time: 7 hrs 37 mins
+```rust
+From: 21 March 2024 - To: 12 December 2025
 
-Other        2 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.52 %
-Python       1 hr 34 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-Bash         1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-YAML         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Docker       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Total Time: 618 hrs 51 mins
+
+Python                             346 hrs 12 mins >>>>>>>>>>>>-------------   49.94 %
+Markdown                           151 hrs 17 mins >>>>>--------------------   21.83 %
+Other                              74 hrs 21 mins  >>>----------------------   10.73 %
 ```
 
 <!--END_SECTION:waka-->
