@@ -35,8 +35,6 @@ It's a new day; it's a new summons to struggle.
   </picture>
 </div>
 
-<br>
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
