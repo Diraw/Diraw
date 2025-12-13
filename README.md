@@ -2,11 +2,11 @@
 
 Welcome to my world... perhaps it still needs more time to be perfected.
 
-My website: [Diraw's World](https://diraw.top/), to seek guidance for what's next.
+My website: [Diraw's World](https://diraw.top/), to seek the answer why we move forward.
 
-I would be glad if you could walk with me in search of the answers that light our way forward.
+**I would be glad if you could walk with me, in search of the light that guides our way ahead.**
 
-It's a new day; it's a new summons to struggle.
+It's a new day, also a new summons to struggle.
 
 <table>
   <tr>
