@@ -35,6 +35,9 @@ It's a new day; it's a new summons to struggle.
   </picture>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&color=c9d1d9">
