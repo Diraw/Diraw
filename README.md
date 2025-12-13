@@ -27,6 +27,10 @@ It's a new day, also a new summons to struggle.
   </tr>
 </table>
 
+|  |  |
+|---|---|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.diraw.top/github/stats?username=diraw&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&text_size=16&text_color=c9d1d9&icon_color=c9d1d9&hide=contribs"> <source media="(prefers-color-scheme: light)" srcset="https://api.diraw.top/github/stats?username=diraw&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&text_size=16&text_color=333333&icon_color=333333&hide=contribs"><img width="450" src="https://api.diraw.top/github/stats?username=diraw&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&text_size=16&hide=contribs" alt="GitHub Stats"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.diraw.top/github/stats/wakatime?username=diraw&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide_title=true&text_size=20&text_color=c9d1d9&icon_color=c9d1d9"><source media="(prefers-color-scheme: light)" srcset="https://api.diraw.top/github/stats/wakatime?username=diraw&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide_title=true&text_size=20&text_color=333333&icon_color=333333"><img src="https://api.diraw.top/github/stats/wakatime?username=diraw&theme=light&bg_color=transparent&hide_border=true&layout=compact&langs_count=6&hide_title=true&text_size=20" alt="Wakatime Stats"></picture> |
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Diraw/b1603ee0-000a-43bd-b17b-e98288bbc052.svg">
