@@ -13,18 +13,18 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          SHOW_EDITORS: true
+          LOCALE: zh
+          SHOW_LINES_OF_CODE: "True" # 显示截至日期写入的代码行数
+          SHOW_LOC_CHART: "False" # 年份不同季度编写的代码行数
+          SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
+          SHOW_OS: "True" # 显示系统
+          SHOW_PROJECTS: "True" # 显示项目
+          SHOW_TOTAL_CODE_TIME: "True" # 显示总编码时间
+          SHOW_COMMIT: "True" # 显示提交信息
+          SHOW_PROFILE_VIEWS: "True" # 设置为隐藏配置文件视图
+          SHOW_DAYS_OF_WEEK: "True"  # 一周中不同日期进行的提交
+          SHOW_LANGUAGE: "True" # 编码语言
+          SHOW_EDITORS: "True" # 编辑器
