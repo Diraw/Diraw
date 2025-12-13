@@ -35,8 +35,9 @@ It's a new day; it's a new summons to struggle.
   </picture>
 </div>
 
-<!--START_SECTION:waka-->
+<br>
 
+<!--START_SECTION:waka-->
 ```txt
 Total Time: 4 hrs 50 mins
 
@@ -46,7 +47,6 @@ Bash         1 hr 25 mins    ████▓░░░░░░░░░░░░
 YAML         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
 Docker       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
-
 <!--END_SECTION:waka-->
 
 <div align="center">
