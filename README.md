@@ -2,7 +2,7 @@
 
 Welcome to my world... perhaps it still needs more time to be perfected.
 
-My website: [Diraw's World](https://diraw.top/), to seek the answer why we move forward.
+My website: [Diraw's World](https://diraw.top/), to grope for an answer why we move forward.
 
 **I would be glad if you could walk with me, in search of the light that guides our way ahead.**
 
