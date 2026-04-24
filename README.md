@@ -42,15 +42,15 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.56 % 
-Python                   3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-TypeScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+TypeScript               3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Python                   3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+CSS                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-WSL                      8 hrs 17 mins       ████████████████░░░░░░░░░   62.13 % 
-Windows                  5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.87 % 
+Windows                  13 hrs 11 mins      ████████████████████░░░░░   81.87 % 
+WSL                      2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 ```
 
 
