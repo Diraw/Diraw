@@ -38,21 +38,6 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 </div>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   11 hrs 53 mins      ███████████████░░░░░░░░░░   58.37 % 
-Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Text                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-
-💻 Operating System: 
-Windows                  20 hrs 11 mins      █████████████████████████   99.18 % 
-Linux                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
-
 
 <!--END_SECTION:waka-->
 
