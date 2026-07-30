@@ -38,44 +38,44 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-Shell                    4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Other                    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Markdown                 3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Shell                    3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Python                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Other                    2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Cuda                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 💻 Operating System: 
-Windows                  21 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 45 mins (99.65%)
+⏱ AI Coding Time: 12 hrs 39 mins (96.01%)
 
-✍️ 10,513 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,918 lines written by AI, 6 lines written by hand (99.92% AI-written)
 
-🔤 357,228,126 Input Tokens, 968,604 Output Tokens
+🔤 170,002,810 Input Tokens, 508,140 Output Tokens
 
-💵 $1727.97 Estimated AI Cost This Week
+💵 $833.93 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 248 AI Prompts
+🧠 14 AI Sessions, 140 AI Prompts
 
-GPT                      9,237 lines         ██████████████████████░░░   89.58 % 
-Deepseek                 1,075 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+GPT                      6,457 lines         ████████████████████░░░░░   81.42 % 
+Deepseek                 1,473 lines         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,509 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 5,654 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
 
