@@ -44,38 +44,38 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.07 % 
-Shell                    4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Markdown                 2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Python                   4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
+Shell                    3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Markdown                 2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Cuda                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+MATLAB                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Windows                  15 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 26 mins (96.9%)
+⏱ AI Coding Time: 12 hrs 29 mins (96.45%)
 
-✍️ 8,649 lines written by AI, 6 lines written by hand (99.93% AI-written)
+✍️ 7,310 lines written by AI, 6 lines written by hand (99.92% AI-written)
 
-🔤 89,303,575 Input Tokens, 354,245 Output Tokens
+🔤 68,716,808 Input Tokens, 261,816 Output Tokens
 
-💵 $355.01 Estimated AI Cost This Week
+💵 $256.09 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 198 AI Prompts
+🧠 8 AI Sessions, 163 AI Prompts
 
-Deepseek                 5,484 lines         ████████████████░░░░░░░░░   64.09 % 
-GPT                      3,073 lines         █████████░░░░░░░░░░░░░░░░   35.91 % 
+Deepseek                 4,479 lines         ████████████████░░░░░░░░░   62.07 % 
+GPT                      2,737 lines         █████████░░░░░░░░░░░░░░░░   37.93 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 5,985 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 6,639 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
