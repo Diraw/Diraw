@@ -44,20 +44,20 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Cuda                     1 hr 9 mins         ██████████████████░░░░░░░   70.82 % 
-Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Objective-C              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Cuda                     1 hr 9 mins         ████████████████░░░░░░░░░   64.95 % 
+Objective-C              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (20.41%)
+⏱ AI Coding Time: 20 mins (18.69%)
 
 ✍️ 21 lines written by AI, 127 lines written by hand (14.19% AI-written)
 
