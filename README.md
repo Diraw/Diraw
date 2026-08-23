@@ -44,22 +44,22 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Cuda                     1 hr 9 mins         ████████████████░░░░░░░░░   64.95 % 
-Objective-C              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Cuda                     1 hr 9 mins         ████████████░░░░░░░░░░░░░   48.68 % 
+Markdown                 37 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Objective-C              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (18.69%)
+⏱ AI Coding Time: 20 mins (14.01%)
 
-✍️ 21 lines written by AI, 127 lines written by hand (14.19% AI-written)
+✍️ 21 lines written by AI, 138 lines written by hand (13.21% AI-written)
 
 🔤 63,498 Input Tokens, 47,918 Output Tokens
 
@@ -71,10 +71,10 @@ Deepseek                 21 lines            ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.19% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 13.21% of written lines came from AI
 📝 Concise Prompter — average 484 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 89.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.54% of changed lines were hand-edited
 ```
 
 
