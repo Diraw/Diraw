@@ -44,37 +44,18 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Cuda                     1 hr 10 mins        ████████████░░░░░░░░░░░░░   48.69 % 
-Markdown                 37 mins             ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-Objective-C              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 35 mins             ████████████████████░░░░░   79.90 % 
+Objective-C              8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Cuda                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (13.97%)
-
-✍️ 21 lines written by AI, 138 lines written by hand (13.21% AI-written)
-
-🔤 63,498 Input Tokens, 47,918 Output Tokens
-
-💵 $16.87 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Deepseek                 21 lines            █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.21% of written lines came from AI
-📝 Concise Prompter — average 484 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 93.54% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
