@@ -38,37 +38,39 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 </div>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 33 mins        █████████████████████████   100.00 % 
+Python                   1 hr 33 mins        ███████████████████████░░   93.55 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (90.41%)
+⏱ AI Coding Time: 1 hr 30 mins (91.03%)
 
 ✍️ 266 lines written by AI, 4 lines written by hand (98.52% AI-written)
 
-🔤 180,124 Input Tokens, 21,985 Output Tokens
+🔤 641,169 Input Tokens, 29,535 Output Tokens
 
-💵 $3.48 Estimated AI Cost This Week
+💵 $6.14 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 14 AI Prompts
 
 GPT                      268 lines           █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.52% of written lines came from AI
-📝 Concise Prompter — average 401 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📝 Concise Prompter — average 377 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 2.9% of changed lines were hand-edited
 ```
 
