@@ -83,11 +83,12 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&color=333333">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.diraw.top/github/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.diraw.top/github/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true&color=333333">
+    <img width="800" src="https://api.diraw.top/github/graph?username=Diraw&theme=github-compact&hide_border=true&area=true&hide_title=true" />
   </picture>
 </div>
+
 
 <div align="center">
   <picture>
