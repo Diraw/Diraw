@@ -42,38 +42,37 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 33 mins        ███████████░░░░░░░░░░░░░░   44.78 % 
-Other                    1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    1 hr 9 mins         ███████████████░░░░░░░░░░   58.13 % 
+TypeScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 21 mins (68.21%)
+⏱ AI Coding Time: 57 mins (48.36%)
 
-✍️ 266 lines written by AI, 11 lines written by hand (96.03% AI-written)
+✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
 
-🔤 65,996,135 Input Tokens, 723,784 Output Tokens
+🔤 65,792,001 Input Tokens, 699,974 Output Tokens
 
-💵 $404.13 Estimated AI Cost This Week
+💵 $400.26 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 14 AI Prompts
+🧠 5 AI Sessions, 1 AI Prompts
 
-GPT                      268 lines           █████████████████████████   100.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.03% of written lines came from AI
-📝 Concise Prompter — average 377 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 70.84% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 60 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
