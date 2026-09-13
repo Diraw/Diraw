@@ -42,35 +42,35 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 9 mins         ███████████████░░░░░░░░░░   58.13 % 
-TypeScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Git Config               25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Other                    24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+TypeScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (48.36%)
+⏱ AI Coding Time: 36 mins (37.82%)
 
 ✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
 
-🔤 65,792,001 Input Tokens, 699,974 Output Tokens
+🔤 11,912,889 Input Tokens, 112,873 Output Tokens
 
-💵 $400.26 Estimated AI Cost This Week
+💵 $69.45 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 1 AI Prompts
+🧠 4 AI Sessions, 0 AI Prompts
 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
+📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
