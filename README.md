@@ -42,28 +42,28 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Git Config               25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Other                    24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-TypeScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Git Config               23 mins             █████████░░░░░░░░░░░░░░░░   36.18 % 
+Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Other                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (37.82%)
+⏱ AI Coding Time: 35 mins (53.66%)
 
-✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 11,912,889 Input Tokens, 112,873 Output Tokens
+🔤 11,554,445 Input Tokens, 106,317 Output Tokens
 
-💵 $69.45 Estimated AI Cost This Week
+💵 $67.33 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 0 AI Prompts
+🧠 3 AI Sessions, 0 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
