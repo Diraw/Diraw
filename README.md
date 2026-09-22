@@ -42,36 +42,37 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-Python                   1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Markdown                 1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Python                   2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Markdown                 2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Other                    1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 6 mins (79.64%)
+⏱ AI Coding Time: 7 hrs 26 mins (88.39%)
 
-✍️ 2,480 lines written by AI, 310 lines written by hand (88.89% AI-written)
+✍️ 3,668 lines written by AI, 310 lines written by hand (92.21% AI-written)
 
-🔤 2,534,367 Input Tokens, 513,856 Output Tokens
+🔤 3,573,718 Input Tokens, 685,691 Output Tokens
 
-💵 $104.96 Estimated AI Cost This Week
+💵 $144.29 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 26 AI Prompts
+🧠 24 AI Sessions, 40 AI Prompts
 
-GPT                      2,684 lines         █████████████████████████   100.00 % 
+GPT                      3,832 lines         ████████████████████████░   96.84 % 
+Codex-Vscode             125 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.89% of written lines came from AI
-📚 Verbose Prompter — average 2,943 characters per prompt
+🤖 AI-Driven — 92.21% of written lines came from AI
+📚 Verbose Prompter — average 2,005 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 10.47% of changed lines were hand-edited
+🚀 High AI Trust — 7.35% of changed lines were hand-edited
 ```
 
 
