@@ -42,36 +42,36 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Markdown                 45 mins             █████████████░░░░░░░░░░░░   51.80 % 
-Other                    35 mins             ██████████░░░░░░░░░░░░░░░   40.86 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 45 mins             ████████████████░░░░░░░░░   65.85 % 
+Other                    17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (40.86%)
+⏱ AI Coding Time: 17 mins (24.81%)
 
 ✍️ 0 lines written by AI, 24 lines written by hand (0.0% AI-written)
 
-🔤 2,231,025 Input Tokens, 305,089 Output Tokens
+🔤 2,054,357 Input Tokens, 288,893 Output Tokens
 
-💵 $144.86 Estimated AI Cost This Week
+💵 $139.41 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 112 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
