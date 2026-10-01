@@ -42,36 +42,36 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 44 mins        ████████████████████████░   94.19 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 2 hrs 47 mins       ████████████████░░░░░░░░░   64.59 % 
+TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Image (png)              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (53.2%)
+⏱ AI Coding Time: 4 hrs 7 mins (95.34%)
 
-✍️ 8 lines written by AI, 24 lines written by hand (25.0% AI-written)
+✍️ 5,448 lines written by AI, 20 lines written by hand (99.63% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 3,462,753,290 Input Tokens, 876,210 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $9175.47 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 9 AI Sessions, 0 AI Prompts
 
-Mozilla                  8 lines             █████████████████████████   100.00 % 
+Mozilla                  2,181 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
+🤖 AI-Driven — 99.63% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 97.87% of changed lines were hand-edited
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 
