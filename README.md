@@ -42,22 +42,22 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 47 mins       ████████████████░░░░░░░░░   64.59 % 
-TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Image (png)              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 2 hrs 41 mins       ████████████████░░░░░░░░░   65.46 % 
+TypeScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Image (png)              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 7 mins (95.34%)
+⏱ AI Coding Time: 4 hrs 7 mins (100.0%)
 
-✍️ 5,448 lines written by AI, 20 lines written by hand (99.63% AI-written)
+✍️ 5,448 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 3,462,753,290 Input Tokens, 876,210 Output Tokens
 
@@ -68,10 +68,10 @@ Windows                  4 hrs 19 mins       ███████████�
 Mozilla                  2,181 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
