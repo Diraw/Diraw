@@ -42,36 +42,16 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ██████████████░░░░░░░░░░░   54.69 % 
-TypeScript               39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Image (png)              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (100.0%)
-
-✍️ 5,440 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,462,753,290 Input Tokens, 876,210 Output Tokens
-
-💵 $9175.47 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 0 AI Prompts
-
-Mozilla                  2,173 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
