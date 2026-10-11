@@ -42,18 +42,37 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 mins             ████████████████████████░   95.28 % 
-SSH Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Python                   2 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.52 % 
+Markdown                 1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████░░░░   85.11 % 
-Mac                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Windows                  4 hrs 35 mins       █████████████████████████   99.22 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 1 min (87.19%)
+
+✍️ 3,810 lines written by AI, 75 lines written by hand (98.07% AI-written)
+
+🔤 863,738 Input Tokens, 263,962 Output Tokens
+
+💵 $6.79 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 10 AI Prompts
+
+GPT                      3,865 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.07% of written lines came from AI
+📝 Concise Prompter — average 306 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 26.37% of changed lines were hand-edited
 ```
 
 
