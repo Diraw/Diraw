@@ -42,23 +42,23 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.48 % 
-Python                   3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Markdown                 2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Other                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.24 % 
+Python                   3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Windows                  10 hrs 34 mins      █████████████████████████   99.66 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Windows                  10 hrs 21 mins      █████████████████████████   99.65 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 26 mins (88.96%)
+⏱ AI Coding Time: 9 hrs 26 mins (90.73%)
 
-✍️ 8,881 lines written by AI, 85 lines written by hand (99.05% AI-written)
+✍️ 8,881 lines written by AI, 40 lines written by hand (99.55% AI-written)
 
 🔤 6,426,806 Input Tokens, 1,200,169 Output Tokens
 
@@ -69,10 +69,10 @@ Mac                      2 mins              ░░░░░░░░░░░�
 GPT                      8,938 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
+🤖 AI-Driven — 99.55% of written lines came from AI
 📝 Concise Prompter — average 494 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.51% of changed lines were hand-edited
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 
