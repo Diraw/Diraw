@@ -42,23 +42,22 @@ My gpg key: [Public Key](https://github.com/Diraw/Diraw/blob/main/Diraw__0x2A68A
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.24 % 
-Python                   3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Other                    4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.38 % 
+Python                   3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Markdown                 2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   99.65 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 26 mins (90.73%)
+⏱ AI Coding Time: 9 hrs 26 mins (91.05%)
 
-✍️ 8,881 lines written by AI, 40 lines written by hand (99.55% AI-written)
+✍️ 8,881 lines written by AI, 25 lines written by hand (99.72% AI-written)
 
 🔤 6,426,806 Input Tokens, 1,200,169 Output Tokens
 
@@ -69,10 +68,10 @@ Mac                      2 mins              ░░░░░░░░░░░�
 GPT                      8,938 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
+🤖 AI-Driven — 99.72% of written lines came from AI
 📝 Concise Prompter — average 494 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 
