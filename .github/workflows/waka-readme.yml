@@ -17,7 +17,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_URL: "https://wakatime.com/api/v1/users/current/stats/all_time"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
