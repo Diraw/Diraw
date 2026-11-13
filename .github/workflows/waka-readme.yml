@@ -1,35 +1,21 @@
-name: Waka Readme
-
+name: Metrics
 on:
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-
-permissions:
-  contents: write
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_URL: "https://wakatime.com/api/v1/users/current/stats/all_time"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_COMMIT: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_UPDATED_DATE: "False"
-          SHOW_AI_CODE_TIME: "False"
+          token: ${{ secrets.GH_TOKEN }}
+          user: 你的GitHub用户名 
+          template: classic
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, languages, editors, os
