@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          user: 你的GitHub用户名 
+          user: Diraw
           template: classic
           base: ""
           plugin_wakatime: yes
